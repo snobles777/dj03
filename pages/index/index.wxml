@@ -1,0 +1,44 @@
+<swiper class="slides">  
+    <swiper-item>
+        <image src="/assets/images/image1.png"
+        mode="aspectFill"
+        >
+        </image>
+     </swiper-item>
+  <swiper-item>
+        <image src="/assets/images/image2.png"
+         mode="aspectFill"
+        >
+        </image>
+     </swiper-item>
+</swiper>
+<view class="grids">
+    <view class="item">
+     <image src="/assets/icons/icon01.png">
+     </image>
+      <text>一月</text>
+    </view>
+    <view class="item">
+     <image src="/assets/icons/icon02.png">
+     </image>
+      <text>二月</text>
+    </view>
+     <view class="item">
+     <image src="/assets/icons/icon03.png">
+     </image>
+      <text>三月</text>
+    </view>
+     <view class="item">
+     <image src="/assets/icons/icon04.png">
+     </image>
+      <text>四月</text>
+    </view>
+    <view class="item">
+     <image src="/assets/icons/icon04.png">
+     </image>
+      <text>五月</text>
+    </view>
+
+
+
+</view>
